@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.06d3a756.css",
-    "main.js": "/orange-bar/static/js/main.427fb187.js",
+    "main.css": "/orange-bar/static/css/main.06715db7.css",
+    "main.js": "/orange-bar/static/js/main.017a12a1.js",
     "static/media/123123.png": "/orange-bar/static/media/123123.3962ac34daae8978081b.png",
     "static/media/sunflower.jpg": "/orange-bar/static/media/sunflower.fc1db384c50fe517f113.jpg",
     "static/media/img.png": "/orange-bar/static/media/img.c97d9676a537222dc4f3.png",
     "index.html": "/orange-bar/index.html",
-    "main.06d3a756.css.map": "/orange-bar/static/css/main.06d3a756.css.map",
-    "main.427fb187.js.map": "/orange-bar/static/js/main.427fb187.js.map"
+    "main.06715db7.css.map": "/orange-bar/static/css/main.06715db7.css.map",
+    "main.017a12a1.js.map": "/orange-bar/static/js/main.017a12a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.06d3a756.css",
-    "static/js/main.427fb187.js"
+    "static/css/main.06715db7.css",
+    "static/js/main.017a12a1.js"
   ]
 }
