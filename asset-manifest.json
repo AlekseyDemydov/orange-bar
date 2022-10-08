@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.c48cc640.css",
-    "main.js": "/orange-bar/static/js/main.61bfd20b.js",
+    "main.css": "/orange-bar/static/css/main.ec09c715.css",
+    "main.js": "/orange-bar/static/js/main.5894eff8.js",
     "static/media/fon2.jpg": "/orange-bar/static/media/fon2.614de2abc99e7a2a3af1.jpg",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.5c5f6857f9590821b445.jpg",
     "index.html": "/orange-bar/index.html",
-    "main.c48cc640.css.map": "/orange-bar/static/css/main.c48cc640.css.map",
-    "main.61bfd20b.js.map": "/orange-bar/static/js/main.61bfd20b.js.map"
+    "main.ec09c715.css.map": "/orange-bar/static/css/main.ec09c715.css.map",
+    "main.5894eff8.js.map": "/orange-bar/static/js/main.5894eff8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c48cc640.css",
-    "static/js/main.61bfd20b.js"
+    "static/css/main.ec09c715.css",
+    "static/js/main.5894eff8.js"
   ]
 }
