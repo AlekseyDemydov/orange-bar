@@ -1,11 +1,21 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.e8d857c6.css",
-    "main.js": "/orange-bar/static/js/main.a3e5e769.js",
-    "static/media/dubl-chik.png": "/orange-bar/static/media/dubl-chik.355b24f0b1877cbfdfe5.png",
+    "main.css": "/orange-bar/static/css/main.756ec2a0.css",
+    "main.js": "/orange-bar/static/js/main.071fbf79.js",
+    "static/media/caw.png": "/orange-bar/static/media/caw.a7ca4e28a64a6733237b.png",
+    "static/media/krevetki-kalmar.png": "/orange-bar/static/media/krevetki-kalmar.75067321a5dcd11bebfb.png",
+    "static/media/solyanka.png": "/orange-bar/static/media/solyanka.875659a06c0540594723.png",
+    "static/media/chiken.png": "/orange-bar/static/media/chiken.470ff6b048059d9e368e.png",
+    "static/media/mush.png": "/orange-bar/static/media/mush.a4c6cac637a5d6dfd270.png",
+    "static/media/redfish.png": "/orange-bar/static/media/redfish.34c48f496e73490d2a77.png",
     "static/media/tiger.png": "/orange-bar/static/media/tiger.0dc58a38e863a3c0f805.png",
+    "static/media/chiken-mush.png": "/orange-bar/static/media/chiken-mush.a87328a714a758556872.png",
+    "static/media/cezar.png": "/orange-bar/static/media/cezar.220726b6218b2f027014.png",
+    "static/media/greece.png": "/orange-bar/static/media/greece.a2c935f8f682c66a5094.png",
+    "static/media/dubl-chik.png": "/orange-bar/static/media/dubl-chik.355b24f0b1877cbfdfe5.png",
+    "static/media/tomato.png": "/orange-bar/static/media/tomato.3bda0050cfc235abb6ec.png",
     "static/media/pork-burg.png": "/orange-bar/static/media/pork-burg.4a324eab0000503bec3d.png",
-    "static/media/chees.png": "/orange-bar/static/media/chees.75f741814970ce3cf61c.png",
+    "static/media/chees.png": "/orange-bar/static/media/chees.271fe14b1bdacc1ea9ea.png",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/inst.png": "/orange-bar/static/media/inst.da61275da83501aa7a6f.png",
     "static/media/123123.png": "/orange-bar/static/media/123123.3962ac34daae8978081b.png",
@@ -13,11 +23,11 @@
     "static/media/orangeLogo.png": "/orange-bar/static/media/orangeLogo.9679a3f9a5d07c05ddb0.png",
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/orange-bar/index.html",
-    "main.e8d857c6.css.map": "/orange-bar/static/css/main.e8d857c6.css.map",
-    "main.a3e5e769.js.map": "/orange-bar/static/js/main.a3e5e769.js.map"
+    "main.756ec2a0.css.map": "/orange-bar/static/css/main.756ec2a0.css.map",
+    "main.071fbf79.js.map": "/orange-bar/static/js/main.071fbf79.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8d857c6.css",
-    "static/js/main.a3e5e769.js"
+    "static/css/main.756ec2a0.css",
+    "static/js/main.071fbf79.js"
   ]
 }
