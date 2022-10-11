@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.09a03c06.css",
-    "main.js": "/orange-bar/static/js/main.2752b205.js",
-    "static/media/666.png": "/orange-bar/static/media/666.1164808e1bfd742e1721.png",
+    "main.css": "/orange-bar/static/css/main.a445cb1f.css",
+    "main.js": "/orange-bar/static/js/main.2ca4fd7d.js",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/inst.png": "/orange-bar/static/media/inst.da61275da83501aa7a6f.png",
     "static/media/123123.png": "/orange-bar/static/media/123123.3962ac34daae8978081b.png",
     "static/media/century-gotic.ttf": "/orange-bar/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
     "static/media/orangeLogo.png": "/orange-bar/static/media/orangeLogo.9679a3f9a5d07c05ddb0.png",
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
-    "static/media/img.png": "/orange-bar/static/media/img.c97d9676a537222dc4f3.png",
     "index.html": "/orange-bar/index.html",
-    "main.09a03c06.css.map": "/orange-bar/static/css/main.09a03c06.css.map",
-    "main.2752b205.js.map": "/orange-bar/static/js/main.2752b205.js.map"
+    "main.a445cb1f.css.map": "/orange-bar/static/css/main.a445cb1f.css.map",
+    "main.2ca4fd7d.js.map": "/orange-bar/static/js/main.2ca4fd7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.09a03c06.css",
-    "static/js/main.2752b205.js"
+    "static/css/main.a445cb1f.css",
+    "static/js/main.2ca4fd7d.js"
   ]
 }
