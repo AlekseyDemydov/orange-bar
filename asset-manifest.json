@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.20dabcb0.css",
+    "main.css": "/orange-bar/static/css/main.03038c07.css",
     "main.js": "/orange-bar/static/js/main.b434e8e8.js",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/chiken.png": "/orange-bar/static/media/chiken.9d68f1ffb83168ec79e1.png",
@@ -38,11 +38,11 @@
     "static/media/orangeLogo.png": "/orange-bar/static/media/orangeLogo.9679a3f9a5d07c05ddb0.png",
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/orange-bar/index.html",
-    "main.20dabcb0.css.map": "/orange-bar/static/css/main.20dabcb0.css.map",
+    "main.03038c07.css.map": "/orange-bar/static/css/main.03038c07.css.map",
     "main.b434e8e8.js.map": "/orange-bar/static/js/main.b434e8e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.20dabcb0.css",
+    "static/css/main.03038c07.css",
     "static/js/main.b434e8e8.js"
   ]
 }
