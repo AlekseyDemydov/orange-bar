@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.380376be.css",
-    "main.js": "/orange-bar/static/js/main.8923e7be.js",
+    "main.js": "/orange-bar/static/js/main.f718eea2.js",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/steykpig.png": "/orange-bar/static/media/steykpig.d8c4fe74cd97bcf14931.png",
     "static/media/steykkur.png": "/orange-bar/static/media/steykkur.1cac9d49fc459dc04d26.png",
@@ -151,6 +151,7 @@
     "static/media/kmw.png": "/orange-bar/static/media/kmw.b1498dcdcfc3fcd286fe.png",
     "static/media/bush.png": "/orange-bar/static/media/bush.fc41340a2d9923497b17.png",
     "static/media/bels.png": "/orange-bar/static/media/bels.d59e916361eff7de1c12.png",
+    "static/media/beli.png": "/orange-bar/static/media/beli.6502523bf6ef57e75bd8.png",
     "static/media/absolut.png": "/orange-bar/static/media/absolut.b37ffd2b49a3cc726bf6.png",
     "static/media/bail.png": "/orange-bar/static/media/bail.f18d22b080a4e6769db5.png",
     "static/media/aperol.png": "/orange-bar/static/media/aperol.44d9942a4b038edc283c.png",
@@ -178,10 +179,10 @@
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/orange-bar/index.html",
     "main.380376be.css.map": "/orange-bar/static/css/main.380376be.css.map",
-    "main.8923e7be.js.map": "/orange-bar/static/js/main.8923e7be.js.map"
+    "main.f718eea2.js.map": "/orange-bar/static/js/main.f718eea2.js.map"
   },
   "entrypoints": [
     "static/css/main.380376be.css",
-    "static/js/main.8923e7be.js"
+    "static/js/main.f718eea2.js"
   ]
 }
